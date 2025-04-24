@@ -49,6 +49,7 @@ body{
 }
 
 button{
+    font-family: "Lexend Deca";
     border: none;
     background-color: hsl(0, 0%, 95%);
     padding: 1rem 2rem;
@@ -82,9 +83,10 @@ button{
     }
     .main section p{
         margin-block-end: 5.5rem;
+        line-height: 1.6;
     }
     .main section h2, .main section h1{
-        font-size: 2.75rem;
+        font-size: 2.5rem;
         font-weight: 600;
     }
 }
